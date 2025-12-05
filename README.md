@@ -14,6 +14,27 @@ This project analyzes Instacart’s open-source grocery shopping data to uncover
 - Who are Instacart's most valueable customers?
 - How does customer's income vary across different US regions, and what insights can Instacart use to tailor marketing and product strategies?
 
+
+🔍**Analysis Highlights**
+  - Sundays and Mondays are the busiest days, 9am to 5pm see the highest activity.
+  - Midday shows the highest spending, indicating optimal timing for premium product ads.
+  - Regular customers represent Instacart's core customer base.
+  - Dependents remain consistent across all age groups, no major link between age and family size.
+  - Older customers(45-80) earn the highest income($300k-$600k), while younger adults(18-30) have lower spending power.
+  - The largest customer population is middle aged adults(15 million) and the smallest is young adults(7.8 million).
+  - The South region records the highest total spending, while the Midwest leads in average income.
+  - Middle aged adults(45-70) represent the most valuable customer group with the highest order frequency.
+    
+📌**Recommendations**
+- Focus major promotions on Sundays and Mondays; boost engagement mid-week with targeted offers.
+- Strengthen customer retention with loyalty rewards, personalized discounts, and onboarding for new users.
+- Promote high-value items and bundles during early mornings and peak midday hours.
+- Offer affordable options for younger customers and premium products/subscriptions for older, higher-income customers.
+- Increase staffing and delivery capacity on high-volume days to reduce delays.
+- Tailor regional strategies by offering premium products in the high-income Midwest, balanced mid-range pricing in the West and Northeast, and value-focused options in the South.
+- Improve senior engagement with assisted-feature promotions and repeat-order reminders.
+- Encourage young adults with discounts, bundle deals, and strong social-media marketing.
+
   
 🛠️ **Tools & Technologies**
 
