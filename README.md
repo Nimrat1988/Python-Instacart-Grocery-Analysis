@@ -15,6 +15,16 @@ This project analyzes Instacart’s open-source grocery shopping data to uncover
 - How does customer's income vary across different US regions, and what insights can Instacart use to tailor marketing and product strategies?
 
 
+<img width="640" height="480" alt="bar_regional_spending" src="https://github.com/user-attachments/assets/09f78cca-5927-429e-94eb-d192657f6a6c" />
+
+
+<img width="640" height="480" alt="line_age_number_of_dependents" src="https://github.com/user-attachments/assets/6bf827ab-8867-4324-858a-066c266709b1" />
+
+
+<img width="640" height="480" alt="scatterplot_age_income" src="https://github.com/user-attachments/assets/89e613ce-9985-4185-bcc8-2cfae31b6bc0" />
+
+
+
 🔍**Analysis Highlights**
   - Sundays and Mondays are the busiest days, 9am to 5pm see the highest activity.
   - Midday shows the highest spending, indicating optimal timing for premium product ads.
